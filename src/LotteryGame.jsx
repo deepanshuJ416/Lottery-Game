@@ -12,7 +12,7 @@ function BuyTicket(){
 return (
         <div>
             <h1>Lottery Game</h1>
-                <div className="ticket"> 
+                <div className="ticket">
                     <span>{Ticket[0]}</span>
                     <span>{Ticket[1]}</span>
                     <span>{Ticket[2]}</span>
